@@ -24,18 +24,23 @@ Part 3 is our adventure on day 2 and is the [Blazing Pizza workshop](https://git
 
 We wouldn't be able to deliver the 2 day workshop event without help from our sponsors:
 
-[![DevExpress](images/devexpress-light.png)](https://devexpress.com)
+![Sponsor Logos](images/sponsors.webp)
 
-[![Global Acceleration Partners](images/gap-mobilize-logo-lightbg.png)](https://www.growthaccelerationpartners.com/)
+- [DevExpress](https://devexpress.com) - Your Next Great Blazor App Starts Here. Download our free 30-Day Blazor UI trial and Experience the DevExpress Difference today.
 
-[![GrapeCity](images/grape-city-light.png)](https://grapecity.com)
 
-[![IronSoftware](images/iron-software-light.png)](https://ironsoftware.com)
+- [Global Acceleration Partners](https://www.growthaccelerationpartners.com/)
 
-[![.NET Foundation](images/dotnetfoundation.png)](https://dotnetfoundation.org/)
+- [GrapeCity](https://bit.ly/45UmMzJ) - ComponentOne and ActiveReports .NET from GrapeCity deliver UI, grids, and reporting to build modern web and Blazor applications.
 
-[![Packt Publishing](images/packt.png)](https://www.packtpub.com/)
+- [IronSoftware](https://ironsoftware.com)
 
-[![SyncFusion](images/syncfusion-light.png)](bit.ly/3Zao3yz)
+- [.NET Foundation](https://dotnetfoundation.org/)
 
-[![Progress - Telerik](images/progress-telerik-light.png)](https://telerik.com)
+- [Packt Publishing](https://packtpub.com) - Check out Packt's great Blazor books: 
+  - [Develop modern web UIs with Blazor Server and Blazor WebAssembly](https://www.amazon.com/Web-Development-Blazor-depth-interactive/dp/1803241497/ref=pd_bxgy_vft_none_sccl_1/138-7885948-7808608?pd_rd_w=DOd6X&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=QQFMSJR4Q1Q87VMZFGN9&pd_rd_wg=WZvQW&pd_rd_r=3bec420a-a40b-42f7-af6a-6c9f2fcf8dfa&pd_rd_i=1803241497&psc=1)
+  - [Build exciting web apps following step-by-step instructions and video examples with Blazor Webassembly By Example](https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects/dp/1803241853/ref=pd_vtp_h_vft_none_pd_vtp_h_vft_none_sccl_4/138-7885948-7808608?pd_rd_w=Ncxq7&content-id=amzn1.sym.a5610dee-0db9-4ad9-a7a9-14285a430f83&pf_rd_p=a5610dee-0db9-4ad9-a7a9-14285a430f83&pf_rd_r=6QF3GV3SAKHV9FF750MZ&pd_rd_wg=Ba8gf&pd_rd_r=1d7105be-d749-4728-bdd0-634eec7fb09c&pd_rd_i=1803241853&psc=1)
+
+- [SyncFusion](https://syncf.co/45Blvxc) - Syncfusion offers 80+ UI and Data Viz web Blazor components  like DataGrid, Charts, and Scheduler, that are responsive and lightweight. 
+
+- [Progress - Telerik](https://telerik.com)
