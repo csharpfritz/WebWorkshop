@@ -18,7 +18,7 @@ Part 2 of day 1 is based on the [ASP.NET Core for Beginners workshop](https://gi
 
 Part 3 is our adventure on day 2 and is the [Blazing Pizza workshop](https://github.com/dotnet-presentations/blazor-workshop).  We will create a web application for a new pizza shop called 'Blazing Pizza' that allows customers to browse, order, and customize pizzas. The application runs both on a web server AND in your browser.
 
-[Get Started with Part 3]()
+[Get Started with Part 3](./Part%203%20-%20Blazor/README.md)
 
 ## Sponsors
 
