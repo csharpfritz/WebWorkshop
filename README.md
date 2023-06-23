@@ -29,7 +29,7 @@ We wouldn't be able to deliver the 2 day workshop event without help from our sp
 - [DevExpress](https://devexpress.com) - Your Next Great Blazor App Starts Here. Download our free 30-Day Blazor UI trial and Experience the DevExpress Difference today.
 
 
-- [Global Acceleration Partners](https://www.growthaccelerationpartners.com/)
+- [Growth Acceleration Partners](https://www.growthaccelerationpartners.com/)
 
 - [GrapeCity](https://bit.ly/45UmMzJ) - ComponentOne and ActiveReports .NET from GrapeCity deliver UI, grids, and reporting to build modern web and Blazor applications.
 
