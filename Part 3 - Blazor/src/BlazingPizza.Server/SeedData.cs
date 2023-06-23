@@ -116,46 +116,6 @@ public static class SeedData
                     Name = "Blue cheese",
                     Price = 2.50m,
             },
-            new Topping() {
-                Name = "Italian Sausage",
-                Price = 3.0m
-            },
-            new Topping(){
-                Name = "Pineapple",
-                Price = 7.99m
-            },
-            new Topping() { 
-                Name = "Olives",
-                Price = 1.50m
-            },
-            new Topping() {
-                Name="Mozarella",
-                Price = 3.25m
-            },
-            new Topping() {
-                Name="Banana",
-                Price=4.50m
-            },
-            new Topping() {
-                Name="Minced Meat",
-                Price=7.25m
-            },
-            new Topping() {
-                Name="Baked Beans",
-                Price=1.0m
-            },
-            new Topping() {
-                Name="Anchovies",
-                Price=1.50m
-            },
-            new Topping() {
-                Name="Corn",
-                Price=1.25m
-            },
-            new Topping() {
-                Name="M&Ms",
-                Price=0.75m
-            }
         };
 
         var specials = new PizzaSpecial[]
@@ -223,55 +183,6 @@ public static class SeedData
                     BasePrice = 9.99m,
                     ImageUrl = "img/pizzas/margherita.jpg",
             },
-            new PizzaSpecial()
-            {
-							Id=9,
-                    Name = "Gluten Free Pizza",
-                    Description = "It's gluten-free, cheesy and doesn't taste like cardboard",
-                    BasePrice = 9.99m,
-                    ImageUrl = "img/pizzas/cheese.jpg",
-            },
-            new PizzaSpecial()
-            {
-								Id=10,
-                    Name = "Philly Cheesesteak Pizza",
-                    Description = "Philly Cheesesteak, there can be only one",
-                    BasePrice = 9.99m,
-                    ImageUrl = "img/pizzas/philly.jpg",
-            },
-            new PizzaSpecial()
-            {
-								Id=11,
-                    Name = "Hotdog Crust Pizza",
-                    Description = "Hotdogs in the crust... just the way Mamma used to make it",
-                    BasePrice = 9.99m,
-                    ImageUrl = "img/pizzas/hotdog.jpg",
-            },
-            new PizzaSpecial()
-            {
-								Id=12,
-                    Name = "Pineapple Pizza",
-                    Description = "The BEST way to have a pizza",
-                    BasePrice = 9.99m,
-                    ImageUrl = "img/pizzas/pineapple.jpg",
-            },
-            new PizzaSpecial()
-            {
-								Id=13,
-                    Name = "Kebab with Fries",
-                    Description = "Swedish Pizza.. with fries",
-                    BasePrice = 9.99m,
-                    ImageUrl = "img/pizzas/swedish.jpg",
-            },
-            new PizzaSpecial()
-            {
-								Id=14,
-                    Name = "Chicago Style Pizza",
-                    Description = "It's like a kiddie pool, filled with cheese and sauce",
-                    BasePrice = 9.99m,
-                    ImageUrl = "img/pizzas/chicago.jpg",
-            },
-
         };
 
         db.Toppings.AddRange(toppings);
